@@ -1,28 +1,45 @@
-# Hi, I'm Loreen Atenge! 
+# Hi, I'm Loreen Atenge
 
-I'm a passionate **Economics and Statistics student** at the University of Nairobi, with a growing interest in **data analysis** and **data storytelling**.
+Economics and Statistics graduate from the University of Nairobi with a strong interest in data analytics, macroeconomic  and policy research, and business intelligence.
 
-- **Currently learning:** Data Science with Python, R, and MySQL  
-- **Tools I use:** Excel, Python (Pandas, Matplotlib, Seaborn), R, Tableau  
-- **Interested in:** Economic research, data visualization, and real-world impact through data  
-- **Portfolio:** Coming soon!
+I use data analysis, econometric methods, and business intelligence techniques to turn complex data into actionable insights that support policy, financial, and business decision-making.
 
-## About Me
-
-- I love turning raw data into meaningful insights.  
-- I’m currently working on beginner-friendly data analysis projects focused on **economic trends** and **policy impacts**.  
-- I’m building my GitHub with well-documented projects that show my journey and skills as a data analyst.
+My work combines economics, statistics, and technology to analyze macroeconomic trends, evaluate policy outcomes, build forecasts, and create interactive data visualizations using Python and modern analytics tools.
 
 ## Projects
-- **NYC Citi Bike Analysis** – Cleaned, explored, visualized and presented data from a real-world bike sharing program.
-- **Kenya Economic Indicators (2010–2023)** – Ongoing: analyzing Kenya’s macroeconomic trends using real datasets.
 
-## Fun Facts
+**[Kenya Inflation Drivers Analysis](https://github.com/Loreenatenge/kenya-inflation-analysis)**
+Analysis of 44 years of Kenya's inflation data (1980–2024), covering periods from the Structural Adjustment Program era to the 2022 Ukraine war shock. Using Python and economic analysis, I found that Kenya has spent more years outside the Central Bank of Kenya's target range than inside it.
 
-- I enjoy knitting, cooking, and learning new things.
-- I’m also preparing to apply for a Master's in Data Science abroad!
+**[Kenya Debt Crisis Analysis](https://github.com/Loreenatenge/kenya-debt-crisis-analysis)**
+Analysis of Kenya's public debt sustainability using IMF debt sustainability indicators and macroeconomic data. The study found that debt service-to-exports crossed warning thresholds in 2018, several years before headline debt ratios signalled growing vulnerabilities.
 
----
+**[Kenya Fiscal-Monetary Nexus](https://github.com/Loreenatenge/kenya-fiscal-monetary-nexus)**
+An econometric investigation of the relationship between public debt and inflation in Kenya. Using ARDL bounds testing, this project examines whether fiscal developments have a measurable long-run relationship with inflation dynamics.
 
-📫 **How to reach me**:  
+
+## Current Focus
+
+* Data Analytics and Business Intelligence
+* Macroeconomic Data Analysis
+* Econometric Modelling
+* Fiscal and Monetary Policy Research
+* Economic Forecasting and Policy Evaluation
+* Building Interactive Dashboards with Streamlit
+
+## Tools
+
+* Python: pandas, NumPy, statsmodels, matplotlib, seaborn, Streamlit
+* R
+* SQL 
+* Excel
+
+## Background
+
+Economics and Statistics graduate from the University of Nairobi. My undergraduate research project used ARDL bounds testing to examine the impact of external debt on Kenya's economic growth, the same econometric framework that inspired the Fiscal-Monetary Nexus project.
+
+I am particularly interested in data analytics, business intelligence, economic research, financial markets, treasury analysis, and applying data science techniques to real-world economic and business problems.
+
+
+**How to reach me**:  
 [Email](mailto:loreenatenge121@gmail.com) | [LinkedIn](https://www.linkedin.com/in/loreen-atenge-b159272b1) | GitHub: [@Loreenatenge](https://github.com/Loreenatenge)
